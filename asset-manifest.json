@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/PopX/static/css/main.83a42c09.css",
-    "main.js": "/PopX/static/js/main.46ce01c4.js",
+    "main.js": "/PopX/static/js/main.0fdef241.js",
     "static/media/Rubik-Medium.ttf": "/PopX/static/media/Rubik-Medium.0e121b4fa4d6e9bc5c69.ttf",
     "static/media/Rubik-Regular.ttf": "/PopX/static/media/Rubik-Regular.55fa11cdc8b9a3ee842f.ttf",
     "index.html": "/PopX/index.html",
     "main.83a42c09.css.map": "/PopX/static/css/main.83a42c09.css.map",
-    "main.46ce01c4.js.map": "/PopX/static/js/main.46ce01c4.js.map"
+    "main.0fdef241.js.map": "/PopX/static/js/main.0fdef241.js.map"
   },
   "entrypoints": [
     "static/css/main.83a42c09.css",
-    "static/js/main.46ce01c4.js"
+    "static/js/main.0fdef241.js"
   ]
 }
